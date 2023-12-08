@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Acima diagonal\Acima diagonal\bin\Debug\Acima diagonal.exe.config
+C:\temp\ws-vs2019\Acima diagonal\Acima diagonal\bin\Debug\Acima diagonal.exe
+C:\temp\ws-vs2019\Acima diagonal\Acima diagonal\bin\Debug\Acima diagonal.pdb
+C:\temp\ws-vs2019\Acima diagonal\Acima diagonal\obj\Debug\Acima diagonal.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Acima diagonal\Acima diagonal\obj\Debug\Acima diagonal.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Acima diagonal\Acima diagonal\obj\Debug\Acima diagonal.exe
+C:\temp\ws-vs2019\Acima diagonal\Acima diagonal\obj\Debug\Acima diagonal.pdb

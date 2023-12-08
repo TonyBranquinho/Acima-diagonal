@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acima diagonal", "Acima diagonal\Acima diagonal.csproj", "{B47F4B62-175C-43F0-8667-3D27EE2C4E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47F4B62-175C-43F0-8667-3D27EE2C4E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47F4B62-175C-43F0-8667-3D27EE2C4E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47F4B62-175C-43F0-8667-3D27EE2C4E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47F4B62-175C-43F0-8667-3D27EE2C4E15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {415F5C1C-0A91-4B7F-B41E-6EDCCCB7DBB7}
+	EndGlobalSection
+EndGlobal
